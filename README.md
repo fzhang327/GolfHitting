@@ -1,7 +1,7 @@
 # MATLAB Ball Tracking and Robot Control Script
 
 ## Overview
-This MATLAB script is designed to detect a target object (e.g., a ball) using a webcam, calculate its position in real-world coordinates, and control a robotic arm to interact with the object. The program includes features for real-time video processing, stability detection, and sending movement commands to a robot via serial communication.
+This MATLAB script is designed to detect a target object (e.g., a ball) using a webcam, calculate its position in real-world coordinates, and control a robotic arm to interact with the object. The program includes features for real-time video processing, stability detection, and sending movement commands to a robot via serial communication. Using adafruit motor shield v1 and Matlab.
 
 ---
 
